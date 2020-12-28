@@ -1,4 +1,4 @@
-# Individual Project for CS2030/S Programme Methodology II
+# Discrete-Event-Simulator
 
 ## Part 1
 ### Problem Description
@@ -128,4 +128,3 @@ If a customer cannot find any queue to join, he/she will leave the shop.
 
 All classes dealing with the simulation should now reside in the cs2030.simulator package, with the Main class outside the package, but importing the necessary classes from the package.
 
-# Discrete-Event-Simulator
